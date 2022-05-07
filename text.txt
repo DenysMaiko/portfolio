@@ -4,3 +4,10 @@
 З часом я перейшов на вебпрограмування та створення додатків. 
 Мною пройдені курси самостійного вивчення HTML,CSS, JavaScript. Маю велику практичну базу створення сайтів та відтворення функціоналу сайту на основі JS.
 Окрім умінь у вебпрограмуванні я також володію Python та C#. Володію англійським на рівні b1-b2.
+
+I started to program with a male.
+First it was Python
+I have been the winner of the city and regional programming Olympiads for all years.
+Over time, I switched to web programs and creating applications.
+I have passed the courses of self -study HTML, CSS, JavaScript. I have a large practical base for creating sites and playing the functionality of the site based on JS.
+In addition to web programs, I also own Python and C#. I own English at B1-B2.
