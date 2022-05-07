@@ -25,10 +25,12 @@
 	opacity: 0.9;
 	padding: 10px;
 	transition: all .07s ease-in-out;
+	font-family: 'Italiana', serif;
+	font-weight: 700;
 }
 
 .navbar-menu li a:hover{
-	opacity:1;
+	/*opacity:1;*/
 	text-shadow: white 1px 0 10px;
 }
 
@@ -40,6 +42,7 @@
 	margin-left: 50px;
 	margin-right: 10px;
 	color: white;
+	font-family: 'Lato', sans-serif;
 }
 
 #last:hover{

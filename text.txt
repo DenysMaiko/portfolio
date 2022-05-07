@@ -11,3 +11,32 @@ I have been the winner of the city and regional programming Olympiads for all ye
 Over time, I switched to web programs and creating applications.
 I have passed the courses of self -study HTML, CSS, JavaScript. I have a large practical base for creating sites and playing the functionality of the site based on JS.
 In addition to web programs, I also own Python and C#. I own English at B1-B2.
+
+
+
+Про мене
+Змалку почав цікавитися програмуванням. Спершу це був Python, а згодом JS та вебпрограмування. Щороку на шкільних, міських та обласних олімпіадах я займав перші місця з програмування та інформаційних технологіях. Приймав участь у командних змаганнях, турнірах як капітан команди з переможними результатами. Крім того, неодноразовий призер Всеукраїнських олімпіад з математики та фізики. В даний момент я зацікавлений у веброзробці а та розробці додатків. 
+Навчання
+Навчання
+2016-2019 навчався на комп'ютерних курсах ЦНТТУМ
+Самостійно вивчив JS, HTMl, CSS і швидкими темпами удосконалював свої уміння, Набираючи практичні знання.
+Додатково
+Цілеспрямований, комунікабельний, пунктуальний, з критичним мисленням, з повною серйозністю ставлюсь до поставлених перед собою задач, швидко вчусь.
+Досконало володію українською та російською мовами, на вище середнього - польською та англійською мовами.
+
+ Навички
+Я уміло програмую на Python, швидко та конкретно роблю сайти за допомогою HTML CSS та JavaScript. Також частково розробляю програми на Unity на основі C#.
+
+
+About me
+From a young age I started to be interested in programming. At first it was Python, and later JS and web programming. Every year I ranked first in olympiads from programming and information technology at school, city and regional stages. I participated in team competitions, tournaments as a team captain with victorious results. In addition, the repeated medalist of the All -Ukrainian Olympiads in Mathematics and Physics. I am currently interested in the web development and the development of applications.
+
+Education 
+In 2016-2019 I studied at computer courses at CNTTUM. I studied JS, HTML, CSS and quickly improved my skills by gaining practical knowledge.
+
+Other
+Purposeful, sociable, punctual, with critical thinking, I am serious about the tasks set and I quickly learn.
+I perfect speak Ukrainian and Russian, and I speak the above average level in Polish and English languages.
+
+Skills
+I skillfully program on Python, quickly and specifically do sites with HTML CSS and JavaScript. I also partially develop in Unity based on C#.
